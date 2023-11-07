@@ -27,3 +27,5 @@ Optionally, you can show someone else's profile by supplying a user as an option
 
 ## Examples
 
+![image](https://github.com/mbos2/user-profile/assets/56090587/a4243d5c-3b5a-4eda-a5aa-3ab4fd42c537)
+![image](https://github.com/mbos2/user-profile/assets/56090587/82e88a1e-1a5b-4a8d-8841-d3d5102c33ce)
