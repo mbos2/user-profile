@@ -5,7 +5,7 @@ This plugin allows you to submit your profile ideas to the server directly from 
 
 ## Links
 
-Github: https://github.com/mbos2/community-challenges  
+Github: https://github.com/mbos2/user-profile
 NPM: https://www.npmjs.com/package/community-challenges
 
 ## Installation
