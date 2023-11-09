@@ -11,7 +11,7 @@ NPM: https://www.npmjs.com/package/discord-user-profile
 ## Installation
   
   ```bash
-  npx robo add user-profile
+  npx robo add discord-user-profile
   ```
 
 ## Commands
