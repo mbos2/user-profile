@@ -11,7 +11,7 @@ NPM: https://www.npmjs.com/package/discord-user-profile
 ## Installation
   
   ```bash
-  npm install community-challenges
+  npx robo add community-challenges
   ```
 
 ## Commands

@@ -1,7 +1,7 @@
 {
   "name": "discord-user-profile",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "private": false,
   "main": ".robo/build/index.js",
