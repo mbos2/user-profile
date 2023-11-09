@@ -1,4 +1,4 @@
-# User Profile plugin for Robo.js
+# Discord Server User Profile plugin for [Robo.js](https://github.com/Wave-Play/robo.js) discord bot framework
 
 This plugin allows you to submit your profile ideas to the server directly from your Robo.js discord bot.  
 
