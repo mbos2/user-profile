@@ -1,5 +1,5 @@
-import { ModalBuilder, EmbedBuilder } from "discord.js";
-import { IProfile } from "../common/types";
+import { ModalBuilder, EmbedBuilder } from 'discord.js';
+import { IProfile } from '../common/types';
 export declare const profileModal: () => Promise<{
     modal: ModalBuilder;
 }>;
