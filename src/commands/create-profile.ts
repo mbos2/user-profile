@@ -1,4 +1,4 @@
-import { type CommandConfig } from '@roboplay/robo.js';
+import { type CommandConfig } from 'robo.js';
 import { ChatInputCommandInteraction } from 'discord.js';
 import { profileModal } from '../utils/utils.js';
 
